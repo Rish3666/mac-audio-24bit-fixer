@@ -52,7 +52,7 @@ The script logs to micwatcher.log and checks every 5 seconds; adjust sleep as ne
 ## Download
 
 - Direct download: Click Code → Download ZIP in GitHub, or use:
-  - curl -L https://github.com/USER/REPO/archive/refs/heads/main.zip -o mac-audio-24bit-fixer.zip.
+  - curl -L https://github.com/Rish3666/mac-audio-24bit-fixer/archive/refs/heads/main.zip
 
 ## License
 
