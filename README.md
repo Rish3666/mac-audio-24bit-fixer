@@ -1,6 +1,6 @@
 # mac-audio-24bit-fixer
 
-Auto-switches macOS audio to 24‑bit stereo and sets a preferred mic when a Bluetooth headset connects. Uses SwitchAudioSource and system_profiler for detection and switching [1][2][3].
+Auto-switches macOS audio to 24‑bit stereo and sets a preferred mic when a Bluetooth headset connects. Uses SwitchAudioSource and system_profiler for detection and switching.
 
 ## Why
 
